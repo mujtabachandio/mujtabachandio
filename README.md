@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm G.Mujtaba Chandio</h1>
-<h3 align="center">A passionate frontend developer from "PAKISTAN "</h3>
+<h3 align="center">A passionate developer from "PAKISTAN 🇵🇰"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabachandio&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabachandio" /> </p>
 
 - 🔭 I’m currently working on **improving my coding skills and exploring new technologies.**
