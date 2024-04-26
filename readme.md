@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, A passionate developer from "PAKISTAN"</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=F49D09&center=true&vCenter=true&random=false&width=435&lines=%E2%9C%A8hey%2C+Mujtaba+Chandio%E2%9C%A8;A+passionate+developer+from+%22PAKISTAN%22;%F0%9F%92%BBProfessional+Front-End-Developer+%F0%9F%92%BB;Learing%3A+AI%2C+Web3%2C+and+MetaMask.+%F0%9F%9A%80;%F0%9F%8C%9FPassionate+about+cutting-edge+solutions.%F0%9F%8C%9F;%F0%9F%8C%8DEngaged+in+open-source+collaboration.%F0%9F%8C%8D)](https://git.io/typing-svg)
 <h3 align="center">"Connecting the Physical World to the Digital: IoT Development on GitHub"</h3>
 
 <img align="right" alt="Hacking" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
