@@ -39,3 +39,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujtabachandio&" alt="mujtabachandio" /></p>
 
 ## snake eating my contribution graph
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
