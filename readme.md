@@ -8,9 +8,6 @@
 
 <!-- Coding GIFs -->
 <p align="center">
-  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" alt="Coding GIF 1" width="400">
-</p>
-<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF 2" width="400">
 </p>
 
