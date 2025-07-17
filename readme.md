@@ -46,8 +46,6 @@ const mujtaba = new MujtabaChandio();
 
 <div align="center">
   
-  <!-- Animated GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
   
   <!-- Cool Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -123,49 +121,31 @@ const mujtaba = new MujtabaChandio();
   
 </div>
 
+<div align="center">
+
 ## 🌐 Connect & Collaborate
 
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/mujtaba-chandio-210518247/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
-  </a>
-  <a href="https://www.facebook.com/mujtaba.chandio.372">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:mujtabachandio384@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://infinitetech0.my.canva.site/portfolioperspective">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mujtabachandio?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
-  <br/><br/>
-  
-  <!-- Fun Fact Section -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=💡+Fun+Fact%3A+The+first+website+ever+created+is+still+online!;🌍+Visit+it+at+info.cern.ch;🚀+Let's+build+the+next+generation+of+web!" alt="Fun Facts"/>
-  
-</div>
+<a href="https://www.linkedin.com/in/mujtaba-chandio-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
+</a>
+<a href="https://x.com/MujtabaChandi0">
+  <img src="https://img.shields.io/badge/X-fff?style=for-the-badge&logo=x&logoColor=black"/>
+</a>
+<a href="https://medium.com/@mujtabachandio384">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="https://www.mujtaba.xyz">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://github.com/mujtabachandio?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🎉 Let's Create Something Amazing Together!
+<br/><br/>
 
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" height="50"/> 
-  <em>Ready to collaborate on your next big idea? Let's connect and make it happen!</em>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" height="50"/>
-  
-  <br/><br/>
-  
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/mujtabachandio/mujtabachandio/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  
-  <!-- Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-  
+<!-- Fun Fact Section -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=💡+Fun+Fact%3A+The+first+website+ever+created+is+still+online!;🌍+Visit+it+at+info.cern.ch;🚀+Let's+build+the+next+generation+of+web!" alt="Fun Facts"/>
+
 </div>
 
 ---
