@@ -98,6 +98,19 @@ const mujtaba = new MujtabaChandio();
   
 </div>
 
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<!-- Light mode -->
+<img src="https://github.com/mujtabachandio/mujtabachandio/blob/main/dist/github-snake.svg" alt="Contribution Snake Animation" width="80%"/>
+
+<!-- Dark mode -->
+<img src="https://github.com/mujtabachandio/mujtabachandio/blob/main/dist/github-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Animation Dark" width="80%"/>
+
+</div>
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
