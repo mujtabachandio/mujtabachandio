@@ -18,7 +18,7 @@
 
 ## 🎭 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="300"/>
+<img align="right" src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://images.steamusercontent.com/ugc/1688276024726961565/9DDC43274660B1A3F9CDFCC4612AC273B964D5D4/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" width="300" height="300"/>
 
 ```typescript
 class MujtabaChandio {
