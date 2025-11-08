@@ -5,9 +5,6 @@
   <!-- Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mujtaba%20Chandio&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descSize=16&descAlignY=51" width="100%"/>
   
-  <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌟+Connecting+Physical+%26+Digital+Worlds;🚀+IoT+Developer+%7C+Front-End+Specialist;💡+AI+Enthusiast+%7C+Web3+Explorer;🎯+Always+Ready+for+Innovation!" alt="Typing Animation"/>
-  
   <!-- Profile Views with Animation -->
   <img src="https://komarev.com/ghpvc/?username=mujtabachandio&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
   
@@ -165,3 +162,4 @@ const mujtaba = new MujtabaChandio();
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!;Have+a+great+day!+🌟" alt="Thanks"/>
   
 </div>
+
